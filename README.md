@@ -11,3 +11,7 @@ A python script to produce publication quality 3D plot showing the atom projecte
 2) Here, the first column is always Energy
 3) After the nergy column, one can add as many columns as calculated/needed, and ensure proper column names as these column heading will be the labels on the horizontal axis
 4) Run this script in the directory where the dos_trial.xlsx file is saved.
+
+# Remarks:
+The planar_dos.py script has plenty of comments to ensure it is easy to understand the strcutre and develop further.
+If you have used this script in rendering publication-quality figures in your work, consider citing this repository.
