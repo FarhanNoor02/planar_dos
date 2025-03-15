@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: planar_dos
+message: >-
+  A publication quality 3D plot showing the atom projected
+  density of states (computed by DFT codes) of a material in
+  different vertical planes of the figure.
+type: software
+authors:
+  - given-names: Farhan
+    family-names: Noor
+    email: s-2019418104@phy.du.ac.bd
+    name-particle: Farhan
+    affiliation: University of Dhaka
+repository-code: 'https://github.com/FarhanNoor02/planar_dos'
+keywords:
+  - Density of States
+  - Projected Density of States
+  - 3D Visualization
+license: GPL-3.0
