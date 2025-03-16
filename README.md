@@ -3,6 +3,8 @@ This Python script is designed to generate publication-quality 3D plots for visu
 
 The script is highly customizable, allowing users to adjust the energy range, color schemes, and viewing angles to suit their specific needs. The resulting plots are ideal for inclusion in scientific publications, presentations, and reports.
 
+![screenshot](https://github.com/FarhanNoor02/planar_dos/blob/main/dos_trial.png)
+
 # Key Features
 Input Data Format:
 
@@ -38,7 +40,7 @@ The script supports bold labels, rotated axis labels, and diagonal tick labels f
 
 Fully Enclosed 3D Box:
 
-The plot is enclosed in a 3D box with dashed lines along the edges, ensuring a clean and professional appearance.
+The plot is enclosed in a 3D box with dashed lines along the edges, ensuring a clean and professional appearance. As shown above
 
 
 # Input Data:
@@ -61,7 +63,7 @@ Users can customize the plot by adjusting the colormap, viewing angle, and axis 
 
 Output:
 
-The script outputs a high-quality 3D plot that can be saved as an image file or directly included in publications.
+The script outputs a high-quality 3D plot that can be saved as an image file or directly included in publications. As shown Above
 
 # Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
