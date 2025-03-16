@@ -58,13 +58,11 @@ The script generates a 3D plot where each orbital-projected DOS is displayed in 
 
 The energy values are plotted along the Y-axis, the PDOS values along the Z-axis, and the orbitals along the X-axis.
 
-# Customization:
+# License
+  GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
-Users can customize the plot by adjusting the colormap, viewing angle, and axis labels.
-
-Output:
-
-The script outputs a high-quality 3D plot that can be saved as an image file or directly included in publications. As shown Above
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
 # Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
